@@ -21,3 +21,7 @@ Zero dependencies. `index.html` standalone bhi khulta hai (browser me).
 ## Note
 UI demo hai — content/data placeholder (demo). Asli streaming/download ke liye
 apni legal content pipeline connect karni hogi. © ZYROX
+
+## 🌐 Live URL
+- **GitHub Pages:** https://zyroxteam.github.io/zyrox-cinema/
+- **Render (blueprint):** render.yaml — Render dashboard me "New → Blueprint" → ye repo → Deploy

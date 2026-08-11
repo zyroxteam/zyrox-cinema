@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: zyrox-cinema
+    runtime: node
+    plan: free
+    buildCommand: ""
+    startCommand: node server.js
