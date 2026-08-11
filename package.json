@@ -1,0 +1,9 @@
+{
+  "name": "zyrox-cinema",
+  "version": "1.0.0",
+  "description": "ZYROX CINEMA — 4D animated movie watch/download website UI",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
